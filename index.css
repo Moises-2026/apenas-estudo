@@ -109,7 +109,7 @@ ul {
   padding: 0 2rem ;
 }
 .vantagem-detalhe{
-    background-image: url(imgbik/onda.svg);
+    background-image: url("imgbik/onda.svg");
     background-repeat: repeat-y;
     padding: 2rem 0;
 }
