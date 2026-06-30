@@ -215,7 +215,7 @@ footer {
   ul {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 0.6rem 3rem;
+    gap: 0.6rem 2.5rem;
     justify-self: center;
   }
   .botao {
